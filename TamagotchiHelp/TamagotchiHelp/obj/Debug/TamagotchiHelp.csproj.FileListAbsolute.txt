@@ -1,0 +1,83 @@
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe.config
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.pdb
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.SuggestedBindingRedirects.cache
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form1.resources
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Properties.Resources.resources
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.exe
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.pdb
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form2.resources
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena.mdf
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena_log.ldf
+C:\Users\slava\source\repos\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form3.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena.mdf
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena_log.ldf
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe.config
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.pdb
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form2.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form3.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.exe
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.pdb
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form4.resources
+C:\Users\user\Downloads\Telegram Desktop\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form5.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena.mdf
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena_log.ldf
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.pdb
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.SuggestedBindingRedirects.cache
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form1.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form2.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form3.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form4.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form5.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.exe
+C:\Users\slava\OneDrive\Рабочий стол\Libre\TamagotchiHelp\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.pdb
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena.mdf
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena_log.ldf
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe.config
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.pdb
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form1.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form2.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form3.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form4.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form5.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Properties.Resources.resources
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.exe
+C:\Users\user\Desktop\Uni\2 курс\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.pdb
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena.mdf
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\dbimena_log.ldf
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe.config
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.exe
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\bin\Debug\TamagotchiHelp.pdb
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form1.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form2.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form3.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form4.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Form5.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.Properties.Resources.resources
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.exe
+C:\Users\user\Desktop\Uni\2 курс\3 сем\C#\коты\TamagotchiHelp\TamagotchiHelp\obj\Debug\TamagotchiHelp.pdb
